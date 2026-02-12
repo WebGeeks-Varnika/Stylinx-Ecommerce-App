@@ -24,6 +24,8 @@ DerivedData
 
 # Android/IntelliJ
 #
+.DS_Store
+.env
 build/
 .idea
 .gradle
