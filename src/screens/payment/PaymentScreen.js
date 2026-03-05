@@ -117,7 +117,7 @@ return (
         <Text style={styles.termsText}>
           I agree to{" "}
           <Text style={styles.termsLink}>
-          Please mark accept Terms and conditions
+          Terms and conditions
           </Text>
         </Text>
       </View>
